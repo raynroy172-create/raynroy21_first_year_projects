@@ -1,0 +1,5 @@
+{
+  "name": "Generative AI Agent",
+  "description": "A futuristic, dark-mode chat interface powered by Google's Gemini 3 Flash. Features deep reasoning, tool use, and conversation management.",
+  "requestFramePermissions": []
+}
